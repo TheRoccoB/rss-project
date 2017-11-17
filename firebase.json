@@ -1,1 +1,6 @@
-{}
+{
+  "hosting":
+  {
+    "public" : "dist"
+  }
+}
